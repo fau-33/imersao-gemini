@@ -28,7 +28,7 @@ A aplicação é construída usando HTML, CSS e JavaScript. Aqui estão os compo
 
 ## Link do Site
 
-Você pode acessar a aplicação online aqui: [https://imersao-gemini-zeta.vercel.app/](#)
+Você pode acessar a aplicação online aqui: [Atletas do Brasil](https://imersao-gemini-zeta.vercel.app/)
 
 ## Contribuições
 
