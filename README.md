@@ -26,6 +26,10 @@ A aplicação é construída usando HTML, CSS e JavaScript. Aqui estão os compo
 
 4. **Veja os resultados**: Os resultados aparecerão abaixo do campo de pesquisa, mostrando o título, descrição e um link para mais informações.
 
+## Link do Site
+
+Você pode acessar a aplicação online aqui: [https://imersao-gemini-zeta.vercel.app/](#)
+
 ## Contribuições
 
 Sinta-se à vontade para contribuir! Se você encontrar um bug, tiver uma ideia de melhoria ou quiser adicionar novos atletas ao banco de dados, sinta-se à vontade para abrir uma issue ou enviar um pull request.
